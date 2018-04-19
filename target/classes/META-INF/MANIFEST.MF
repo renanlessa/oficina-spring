@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: oficina-spring
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: renan
+Implementation-Vendor-Id: com.lessa
+Build-Jdk: 1.8.0_162
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/oficina-spring
+Created-By: Maven Integration for Eclipse
+
